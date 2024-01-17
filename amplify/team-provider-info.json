@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-accountmanagement-dev-164325-authRole",
+      "UnauthRoleArn": "arn:aws:iam::304692262622:role/amplify-accountmanagement-dev-164325-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::304692262622:role/amplify-accountmanagement-dev-164325-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-accountmanagement-dev-164325-deployment",
+      "UnauthRoleName": "amplify-accountmanagement-dev-164325-unauthRole",
+      "StackName": "amplify-accountmanagement-dev-164325",
+      "StackId": "arn:aws:cloudformation:ap-south-1:304692262622:stack/amplify-accountmanagement-dev-164325/abf81370-8215-11ee-b692-0252e6266db2",
+      "AmplifyAppId": "d2twkef7uhavsj"
+    },
+    "categories": {
+      "auth": {
+        "accountmanagement73e5b87a": {
+          "userPoolId": "ap-south-1_mHLnfIV2K",
+          "userPoolName": "CustomeEmailPasswordLessAuthentication",
+          "webClientId": "n9vq66328kvf00ub7a2niejcj",
+          "nativeClientId": "n9vq66328kvf00ub7a2niejcj"
+        }
+      }
+    }
+  }
+}

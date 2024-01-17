@@ -1,0 +1,5 @@
+/* The `@tailwind` directives are used in the CSS file to include the base, components, and utilities
+styles from the Tailwind CSS framework. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

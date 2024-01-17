@@ -107,7 +107,7 @@ const VerifyOpt = () => {
         console.log("Failed to verify OTP."); // Log failure to verify OTP
       }
     } catch (error) {
-      console.error("Error:", error.message || "Internal Server Error!"); // Handle and log errors
+      console.error("Error:", error.message || "Internal ServerError!"); // Handle and log errors
     } finally {
       setLoader(false); // Deactivate loader after verification attempt
     }
